@@ -1,6 +1,6 @@
 # Hi, I'm Errol! 😊👋
 
-🧠 I am an aspiring developer currently studying BS Computer Science in Xavier University. 
+🧠 I am a 1st Year BS Computer Science student studying at Xavier University.
 
 💻 I am proficient in C and Java, and I am currently learning Python. 
 
