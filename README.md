@@ -24,3 +24,5 @@
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
+[![Errol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Errol-Anthony-Jano)](https://github.com/Errol-Anthony-Jano/github-readme-stats)
+
