@@ -1,41 +1,16 @@
-# Hi, I'm Errol! 😊👋
+<h1 align="center">Hi 👋, I'm Errol</h1>
+<h3 align="center">A passionate CS student from the Philippines</h3>
 
-🧠 I am a 1st Year BS Computer Science student studying at Xavier University.
+<p align="left"> <a href="https://twitter.com/erroljano" target="blank"><img src="https://img.shields.io/twitter/follow/erroljano?logo=twitter&style=for-the-badge" alt="erroljano" /></a> </p>
 
-💻 I am proficient in C and Java, and I am currently learning Python. 
+- 📫 You can reach me here: **jano.errol2005@gmail.com**
 
-😁 During my free time, I listen to music, watch basketball and football matches, and binge-watch episodes in Netflix.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/erroljano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erroljano" height="30" width="40" /></a>
+</p>
 
-# 🔍 You can find me here!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-🧠 Exercising my brain on <a href = "https://www.codewars.com/users/eggroll_005"> Codewars </a>
-
-<br/>
-
-# 📝 IDEs I've Used
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-
-<br/>
-
-# 💻 Languages I've Learned
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-<br/>
-
-# 💾 Databases I've Learned
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-<br/>
-
-# 📚 My Education
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-
-<br/>
-
-# 📊 My GitHub Stats
-[![Errol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Errol-Anthony-Jano)](https://github.com/Errol-Anthony-Jano/github-readme-stats)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=errol-anthony-jano&show_icons=true&locale=en" alt="errol-anthony-jano" /></p>
