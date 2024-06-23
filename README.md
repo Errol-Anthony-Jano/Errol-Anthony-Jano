@@ -5,8 +5,8 @@ I am a 1st year CS student currently studying in Xavier University. Being the pa
 
 # Connect with me here
 
-<a href = https://www.codewars.com/users/eggroll_005> ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) </a>
-<a href = https://www.linkedin.com/in/errol-anthony-jano-b45673315> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href = https://www.codewars.com/users/eggroll_005>![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)</a>
+<a href = https://www.linkedin.com/in/errol-anthony-jano-b45673315>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 # Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -15,3 +15,6 @@ I am a 1st year CS student currently studying in Xavier University. Being the pa
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+# My GitHub Stats
+[![Errol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Errol-Anthony-Jano)](https://github.com/Errol-Anthony-Jano/github-readme-stats)
