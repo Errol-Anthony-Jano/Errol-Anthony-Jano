@@ -7,5 +7,8 @@ I am a 1st year CS student currently studying in Xavier University. Being the pa
 
 <a href = https://www.codewars.com/users/eggroll_005> ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) </a>
 
+# Tech Stack
+	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 
 
