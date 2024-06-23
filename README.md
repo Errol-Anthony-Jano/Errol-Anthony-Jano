@@ -6,7 +6,7 @@ I am a 1st year CS student currently studying in Xavier University. Being the pa
 # Connect with me here
 
 <a href = https://www.codewars.com/users/eggroll_005> ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) </a>
-<a href = www.linkedin.com/in/errol-anthony-jano-b45673315> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href = https://www.linkedin.com/in/errol-anthony-jano-b45673315> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
 # Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
